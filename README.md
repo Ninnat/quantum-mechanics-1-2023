@@ -6,19 +6,18 @@
 
 |Homework|Date| Topics |Lecture note|Resources|Additional resources|
 |:------:|:--:|:------:|:----------:|:--------:|:------------------|
-|||Introduction to Quantum Theory|
-|||Dirac Notation; Hilbert space; self-adjoint operators|
+|||Introduction to Quantum Theory: Analogies to the Wave Theory of Light|
+|||Essential Linear Algebra|
 |||Postulates of Quantum Theory; Dynamical Pictures; Symmetries, Canonical Commutation Relations, and Conservation Laws
-|||Schrödinger Equation in 1D; Classical Limits and the WKB Approximation
-|||The Harmonic Oscillator
+|||Schrödinger Equation in 1D; WKB Approximation and the Classical Limit
+|||The Harmonic Oscillator; Coherent States and the Classical Limit
 |||Two-Level Systems
-|||Midterm
+|**Midterm**||
 |||Angular Momentum Fundamentals
-|||Tensor Product and 3D Problems
-|||Central Force
-|||Addition of Angular Momenta
-|||Entanglement; Hidden Variables and Bell Nonlocality
-|||Additional Topics
+|||Tensor Product and 3D Problems; Central Force and the Hydrogen Atom
+|||Addition of Angular Momenta; Entanglement; Hidden Variables and Bell Nonlocality
+|||Additional Topics: "Second Quantization" (Occupation Number Representation); Time-indenpendent Perturbation Theory; Time-Dependent Perturbation Theory
+|**Final**
 
 ## Course description (หลักสูตรปรับปรุง 2566)
 
@@ -32,3 +31,10 @@ entanglement; symmetries and transformations; orbital and spin angular momenta; 
 * [SN] *Modern Quantum Mechanics*, 3rd ed., J.J. Sakurai and Jim Napolitano (2021)
 * [Mer] *Quantum Mechanics*, 3rd ed, Eugen Merzbacher (1997) [WKB]
 * [Mul] *Introduction to Quantum Mechanics: Schrödinger Equation and Path Integral*, Harald J. W. Müller-Kirsten (2006) [WKB]
+
+
+## Grading Scheme
+
+* 60% Assignments
+* 20% Midterm exam
+* 20% Final exam
