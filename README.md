@@ -9,8 +9,8 @@
 |||Introduction to Quantum Theory: Analogies to the Wave Theory of Light|
 |||Essential Linear Algebra|
 |||Postulates of Quantum Theory; Dynamical Pictures; Symmetries, Canonical Commutation Relations, and Conservation Laws
-|||Schrödinger Equation in 1D; WKB Approximation and the Classical Limit
-|||The Harmonic Oscillator; Coherent States and the Classical Limit
+|||Schrödinger Equation in 1D; WKB Approximation and the Semiclassical Limit
+|||The Harmonic Oscillator; Coherent States and Classical States of Light
 |||Two-Level Systems
 |**Midterm**||
 |||Angular Momentum Fundamentals
