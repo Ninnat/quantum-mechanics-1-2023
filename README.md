@@ -9,9 +9,9 @@
 |||Introduction to Quantum Theory|
 |||Dirac Notation; Hilbert space; self-adjoint operators|
 |||Postulates of Quantum Theory; Dynamical Pictures; Symmetries, Canonical Commutation Relations, and Conservation Laws
-|||Two-Level Systems
 |||Schrödinger Equation in 1D; Classical Limits and the WKB Approximation
 |||The Harmonic Oscillator
+|||Two-Level Systems
 |||Midterm
 |||Angular Momentum Fundamentals
 |||Tensor Product and 3D Problems
@@ -20,7 +20,7 @@
 |||Entanglement; Hidden Variables and Bell Nonlocality
 |||Additional Topics
 
-## Course decription (ตามหลักสูตรปรับปรุง 2566)
+## Course description (หลักสูตรปรับปรุง 2566)
 
 The Schrödinger equation; Dirac notation; Hilbert space; self-adjoint operators; postulates of quantum mechanics; the harmonic oscillator; two-level systems; quantum
 entanglement; symmetries and transformations; orbital and spin angular momenta; addition of angular momenta; the hydrogen atom; perturbation theory; second quantization and field quantization
