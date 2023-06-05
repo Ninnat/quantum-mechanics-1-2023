@@ -23,16 +23,17 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 
 |Homework|Date| Topics |Lecture note|Resources|Additional resources|
 |:------:|:--:|:------:|:----------:|:--------:|:------------------|
-|||Introduction to Quantum Theory: Analogies to the Wave Theory of Light|
-|||Essential Linear Algebra|
-|||Postulates of Quantum Theory; Dynamical Pictures; Symmetries, Canonical Commutation Relations, and Conservation Laws
-|||Schrödinger Equation in 1D; WKB Approximation and the Semiclassical Limit
-|||The Harmonic Oscillator; Coherent States and Classical States of Light
-|||Two-Level Systems
+||26 Jun|Introduction to quantum theory: analogies to the wave theory of light|
+||28 Jun|Schrödinger Equation in 1D|
+|||Essential linear algebra|
+|||Postulates of quantum theory; dynamical pictures; symmetries and conservation laws
+|||Simple harmonic oscillator; minimum-uncertainty states
+|||Two-level systems
 |**Midterm**||
-|||Angular Momentum Fundamentals
-|||Tensor Product and 3D Problems; Central Force and the Hydrogen Atom
-|||Addition of Angular Momenta; Entanglement; Hidden Variables and Bell Nonlocality
+|||Angular momentum
+|||Tensor product and 3D problems; central force and the hydrogen Atom
+|||Addition of angular momenta
+|||Hidden variables and Bell nonlocality
 |||Additional Topics: "Second Quantization" (Occupation Number Representation); Time-indenpendent Perturbation Theory; Time-Dependent Perturbation Theory
 |**Final**
 
