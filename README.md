@@ -7,6 +7,7 @@
 
 We will be loosely following the order of topics in
 * [C-T] *Quantum Mechanics*, Claude Cohen-Tannoudji, Bernard Diu, and Franck Laloë, Volumes 1 and 2 (1977),
+
 but the details may differ from those in the books.
 
 Other recommended references are
@@ -14,6 +15,7 @@ Other recommended references are
 * [SN] *Modern Quantum Mechanics*, 3rd ed., J.J. Sakurai and Jim Napolitano (2021)
 * [SW] *Quantum Processes, Systems, & Information*, Benjamin Schumacher and Michael Westmoreland (2010)
 * [Mer] *Quantum Mechanics*, 3rd ed, Eugen Merzbacher (1997) (WKB approximation)
+
 For the topic on hidden variables and Bell nonlocality, I recommend
 * [Per] *Quantum Theory: Concepts and Methods*, Asher Peres (1993).
 
