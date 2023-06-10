@@ -22,13 +22,13 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 ## Schedule
 
 |Homework|Date| Topics |Lecture note|Resources|Additional resources|
-|:------:|:--:|:------:|:----------:|:--------:|:------------------|
-||26 Jun|Introduction to quantum theory: analogies to the wave theory of light|
-||28 Jun|Schrödinger Equation in 1D|
-|||Essential linear algebra|
-|||Postulates of quantum theory; dynamical pictures; symmetries and conservation laws
-|||Simple harmonic oscillator; minimum-uncertainty states
-|||Two-level systems
+|:------:|:--:|:-------|:----------:|:--------:|:------------------|
+||26 Jun|Introduction to quantum theory: interference phenomena (1 lecture)|
+||28 Jun|Schrödinger Equation in 1D (3 lectures)|
+|||Essential linear algebra (3 lectures)|
+|||Postulates of quantum theory; dynamical pictures; symmetries and conservation laws (2 lectures?)|
+|||Two-level systems (2 lectures)|
+|||Simple harmonic oscillator; minimum-uncertainty states (3 lectures)|
 |**Midterm**||
 |||Angular momentum
 |||Tensor product and 3D problems; central force and the hydrogen Atom
