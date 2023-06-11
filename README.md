@@ -37,10 +37,9 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 |||Additional Topics: "Second Quantization" (Occupation Number Representation); Time-indenpendent Perturbation Theory; Time-Dependent Perturbation Theory
 |**Final**
 
-## Course description (หลักสูตรปรับปรุง 2566)
+## Course description (Revised curriculum B.E. 2566)
 
-The Schrödinger equation; Dirac notation; Hilbert space; self-adjoint operators; postulates of quantum mechanics; the harmonic oscillator; two-level systems; quantum
-entanglement; symmetries and transformations; orbital and spin angular momenta; addition of angular momenta; the hydrogen atom; perturbation theory; second quantization and field quantization
+The Schrödinger equation; Dirac notation; Hilbert space; self-adjoint operators; postulates of quantum mechanics; the harmonic oscillator; two-level systems; quantum entanglement; symmetries and transformations; orbital and spin angular momenta; addition of angular momenta; the hydrogen atom; perturbation theory; second quantization and field quantization
 
 
 
