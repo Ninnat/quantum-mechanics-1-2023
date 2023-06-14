@@ -25,24 +25,21 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 |:------:|:--:|:-------|:----------:|:--------:|:------------------|
 ||26 Jun|Introduction to quantum theory: interference phenomena (1 lecture)|
 ||28 Jun|Schrödinger Equation in 1D (3 lectures)|
-|||Essential linear algebra (3 lectures)|
-|||Postulates of quantum theory; dynamical pictures; symmetries and conservation laws (2 lectures?)|
-|||Two-level systems (2 lectures)|
+|||Mathematical structures of quantum mechanics (3 lectures)|
+|||Postulates of quantum theory; dynamical pictures; symmetries and conservation laws (2 lectures)|
 |||Simple harmonic oscillator; minimum-uncertainty states (3 lectures)|
+|||Two-level systems (3 lectures)|
 |**Midterm**||
-|||Angular momentum
-|||Tensor product and 3D problems; central force and the hydrogen Atom
-|||Addition of angular momenta
-|||Hidden variables and Bell nonlocality
-|||Additional Topics: "Second Quantization" (Occupation Number Representation); Time-indenpendent Perturbation Theory; Time-Dependent Perturbation Theory
+|||General properties of angular momentum (3 lectures)
+|||Tensor product and quantum mechanics in 3D; central force and the hydrogen Atom (3 lectures)
+|||Addition of angular momenta (2 lectures)
+|||Hidden variables and Bell nonlocality; many-particle systems; second quantization and field quantization (2 lectures)
+|||Perturbation Theory
 |**Final**
 
 ## Course description (Revised curriculum B.E. 2566)
 
 The Schrödinger equation; Dirac notation; Hilbert space; self-adjoint operators; postulates of quantum mechanics; the harmonic oscillator; two-level systems; quantum entanglement; symmetries and transformations; orbital and spin angular momenta; addition of angular momenta; the hydrogen atom; perturbation theory; second quantization and field quantization
-
-
-
 
 ## Grading Scheme
 
