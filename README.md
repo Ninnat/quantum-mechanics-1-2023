@@ -27,7 +27,7 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 ||28 Jun|Schrödinger Equation in 1D (3 lectures)|
 |||Mathematical structures of quantum mechanics (3 lectures)|
 |||Postulates of quantum theory; dynamical pictures; symmetries and conservation laws (2 lectures)|
-|||Simple harmonic oscillator; minimum-uncertainty states (3 lectures)|
+|||Simple harmonic oscillator (3 lectures)|
 |||Two-level systems (3 lectures)|
 |**Midterm**||
 |||General properties of angular momentum (3 lectures)
