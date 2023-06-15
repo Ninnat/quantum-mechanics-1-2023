@@ -33,7 +33,7 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 |||General properties of angular momentum (3 lectures)
 |||Tensor product and quantum mechanics in 3D; central force and the hydrogen Atom (3 lectures)
 |||Addition of angular momenta (2 lectures)
-|||Hidden variables and Bell nonlocality; many-particle systems; second quantization and field quantization (2 lectures)
+|||Hidden variables and Bell nonlocality; many-particle systems; second quantization and field quantization
 |||Perturbation Theory
 |**Final**
 
