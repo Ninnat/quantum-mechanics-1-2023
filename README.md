@@ -11,13 +11,13 @@ We will be loosely following the order of topics in
 but the details may differ from those in the books.
 
 Other recommended references are
-* [Bal] *Quantum Mechanics: A Modern Development*, Leslie E. Ballentine (1998)
-* [SN] *Modern Quantum Mechanics*, 3rd ed., J.J. Sakurai and Jim Napolitano (2021)
-* [SW] *Quantum Processes, Systems, & Information*, Benjamin Schumacher and Michael Westmoreland (2010)
-* [Mer] *Quantum Mechanics*, 3rd ed, Eugen Merzbacher (1997) (WKB approximation)
-
+* [Bal] *Quantum Mechanics: A Modern Development*, Leslie E. Ballentine (1998),
+* [SN] *Modern Quantum Mechanics*, 3rd ed., J.J. Sakurai and Jim Napolitano (2020),
+* [SW] *Quantum Processes, Systems, & Information*, Benjamin Schumacher and Michael Westmoreland (2010),
+* [Mer] *Quantum Mechanics*, 3rd ed., Eugen Merzbacher (1997) [WKB approximation].
+<!--
 For the topic on hidden variables and Bell nonlocality, I recommend
-* [Per] *Quantum Theory: Concepts and Methods*, Asher Peres (1993).
+* [Per] *Quantum Theory: Concepts and Methods*, Asher Peres (1993).-->
 
 ## Schedule
 
