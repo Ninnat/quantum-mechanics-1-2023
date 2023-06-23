@@ -23,7 +23,7 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 
 |Homework|Date| Topics |Lecture note|Resources|Additional resources|
 |:------:|:--:|:-------|:----------:|:--------:|:------------------|
-||26 Jun|Introduction to quantum theory: interference phenomena (1 lecture)|
+||26 Jun|Introduction to quantum theory: interference phenomena (1 lecture)|[L1](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/indiv_01.pdf)
 ||28 Jun|Schrödinger Equation in 1D (3 lectures)|
 |||Mathematical structures of quantum mechanics (3 lectures)|
 |||Postulates of quantum theory; dynamical pictures; symmetries and conservation laws (2 lectures)|
