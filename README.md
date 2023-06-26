@@ -23,36 +23,53 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 
 |Homework|Date| Topics |Lecture note|Resources|Additional resources|
 |:------:|:--:|:-------|:----------:|:--------:|:------------------|
-||M 26 Jun|Introduction to quantum theory: interference phenomena (1 lecture)|[L1](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/indiv_01.pdf)
-||T 27 Jun|
-|HW1<\br>DUE|W 28 Jun|Schrödinger equation in 1D I|
-||M 3 Jul|Schrödinger equation in 1D II|
-||T 4 Jul|
-||W 5 Jul|Schrödinger equation in 1D III|
-||M 10 Jul|Mathematical structure of quantum mechanics I|
-||T 11 Jul|HW1 discussion
-||W 12 Jul|Mathematical structure of quantum mechanics II|
-||M 17 Jul|Mathematical structure of quantum mechanics III|
-||T 18 Jul|
-||W 19 Jul|Postulates of quantum theory; dynamical pictures; symmetries and conservation laws I|
-||M 24 Jul|**No class?**
-||T 25 Jul|Postulates of quantum theory; dynamical pictures; symmetries and conservation laws II **(Make-up class)**|
-||W 26 Jul|Simple harmonic oscillator I|
-||M 31 Jul|Simple harmonic oscillator II|
-||T 1 Aug|**No class** (อาสาฬหบูชา)
-||W 2 Aug|**No class** (เข้าพรรษา)|
-||M 7 Aug|Simple harmonic oscillator III|
-||T 8 Aug||
-||W 9 Aug|Two-level systems I|
-||M 14 Aug|**No class** (หยุดชดเชยวันแม่แห่งชาติ) 
-||T 15 Aug|
-||W 16 Aug|Two-level systems II|
-||M 21 Aug|Two-level systems I
-||T 22 Aug|
-||W 23 Aug|
-||28 Aug - 1 Sep | **No class**
-|||Two-level systems (3 lectures)|
+||M 06.26|L1: Introduction to quantum theory: interference phenomena (1 lecture)|[L1](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/indiv_01.pdf)
+||T 06.27|
+|HW1<br>OUT|W 06.28|L2: Schrödinger equation in 1D I|
+||M 07.03|L3: Schrödinger equation in 1D II|
+||T 07.04|
+||W 07.05|L4: Schrödinger equation in 1D III|
+|HW2<br>OUT|M 07.10|L5: Mathematical structure of quantum mechanics I|
+||T 07.11|HW1 discussion
+||W 07.12|L6: Mathematical structure of quantum mechanics II|
+||M 07.17|L7: Mathematical structure of quantum mechanics III|
+||T 07.18|
+||W 07.19|L8: Postulates of quantum theory; dynamical pictures; symmetries and conservation laws I|
+||M 07.24|**No class?**
+||T 07.25|L9: Postulates of quantum theory; dynamical pictures; symmetries and conservation laws II **(Make-up class)**|
+||W 07.26|L10: Simple harmonic oscillator I|
+||M 07.31|L11: Simple harmonic oscillator II|
+||T 08.01|**No class** (อาสาฬหบูชา)
+||W 08.02|**No class** (เข้าพรรษา)|
+||M 08.07|L12: Simple harmonic oscillator III|
+||T 08.08||
+||W 08.09|L13: Two-level systems I|
+||M 08.14|**No class** (หยุดชดเชยวันแม่แห่งชาติ) 
+||T 08.15|
+||W 08.16|L14: Two-level systems II|
+||M 08.21|L15: Two-level systems III|
+||T 08.22|
+||W 08.23|L16:
+||08.28-09.01| **No class**
 |**Midterm**||
+||M 09.04|L17:
+||T 09.05|
+||W 09.06|L18:
+||M 09.11|L19:
+||T 09.12|
+||W 09.13|L20:
+||M 09.18|L21:
+||T 09.19|
+||W 09.20|L22:
+||M 09.25|L23:
+||T 09.26|
+||W 09.27|L24:
+||M 10.02|L25:
+||T 10.03|
+||W 10.04|L26:
+||M 10.09|L27:
+||T 10.10|
+||W 10.11|L28:
 |||General properties of angular momentum (3 lectures)
 |||Tensor product and quantum mechanics in 3D; central force and the hydrogen Atom (3 lectures)
 |||Addition of angular momenta (2 lectures)
