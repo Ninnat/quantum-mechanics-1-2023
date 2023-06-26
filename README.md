@@ -22,55 +22,54 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 ## Schedule
 
 |Homework|Date| Topics |Lecture note|Resources|Additional resources|
-|:------:|:--:|:-------|:----------:|:--------:|:------------------|
-||M 06.26|L1: Introduction to quantum theory: interference phenomena (1 lecture)|[L1](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/indiv_01.pdf)
+|:------:|:--:|:------:|:----------:|:--------:|:------------------|
+||M 06.26|L1: Introduction to quantum theory: interference phenomena |[L1](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/indiv_01.pdf)
 ||T 06.27|
 |HW1<br>OUT|W 06.28|L2: Schrödinger equation in 1D I|
 ||M 07.03|L3: Schrödinger equation in 1D II|
-||T 07.04|
-||W 07.05|L4: Schrödinger equation in 1D III|
-|HW2<br>OUT|M 07.10|L5: Mathematical structure of quantum mechanics I|
+||T 07.04|L4: Schrödinger equation in 1D III (**Make-up class**)|
+||W 07.05|L5: Mathematical structure of quantum mechanics I|
+|HW2<br>OUT|M 07.10|L6: Mathematical structure of quantum mechanics II|
 ||T 07.11|HW1 discussion
-||W 07.12|L6: Mathematical structure of quantum mechanics II|
-||M 07.17|L7: Mathematical structure of quantum mechanics III|
-||T 07.18|L8: Postulates of quantum theory; dynamical pictures; symmetries and conservation laws I (**Make-up class**)
+||W 07.12|L7: Mathematical structure of quantum mechanics III|
+||M 07.17|L8: Postulates of quantum mechanics
+||T 07.18|L9: Dynamical pictures; symmetries and conservation laws I (**Make-up class**)|
 |HW3<br>OUT|W 07.19| **No class**
 ||M 07.24|**No class?**
 ||T 07.25|HW2 discussion
-||W 07.26|L9: Postulates of quantum theory; dynamical pictures; symmetries and conservation laws II|
-|HW4<br>OUT|M 07.31|L10: Simple harmonic oscillator I|
+||W 07.26|L10: Dynamical pictures; symmetries and conservation laws II|
+|HW4<br>OUT|M 07.31|L11: Simple harmonic oscillator I|
 ||T 08.01|**No class** (อาสาฬหบูชา)
 ||W 08.02|**No class** (เข้าพรรษา)|
-||M 08.07|L11: Simple harmonic oscillator II|
+||M 08.07|L12: Simple harmonic oscillator II|
 ||T 08.08|HW3 discussion|
-||W 08.09|L12: Simple harmonic oscillator III|
-||M 08.14|**No class** (หยุดชดเชยวันแม่แห่งชาติ) 
-||T 08.15|HW4 discussion
-||W 08.16|L13: Two-level systems I|
-|**Midterm**
-||M 08.21|L14: Two-level systems II|
-||T 08.22|
-||W 08.23|L15: Two-level systems III|
-||08.28-09.01| **No class**
-|**Midterm**||
-||M 09.04|L17:
+||W 08.09|L13: Simple harmonic oscillator III|
+||M 08.14|**No class** (หยุดชดเชยวันแม่แห่งชาติ)
+||T 08.15|L14: Two-level systems I (**Make-up class**)|
+||W 08.16|L15: Two-level systems II|
+||M 08.21|L16: Angular momentum 
+||T 08.22|HW4 discussion
+||W 08.23|L17:
+|Midterm<br>OUT|08.28-09.01| **No class**
+||M 09.04|L18: 
 ||T 09.05|
-||W 09.06|L18:
-||M 09.11|L19:
+||W 09.06|L19: Tensor product and quantum mechanicsin 3D
+||M 09.11|L20:
 ||T 09.12|
-||W 09.13|L20:
-||M 09.18|L21:
+||W 09.13|L21: 
+||M 09.18|L22: Addition of angular momenta
 ||T 09.19|
-||W 09.20|L22:
-||M 09.25|L23:
+||W 09.20|L23:
+||M 09.25|L24: 
 ||T 09.26|
-||W 09.27|L24:
-||M 10.02|L25:
+||W 09.27|L25: Perturbation theory
+||M 10.02|L26: 
 ||T 10.03|
-||W 10.04|L26:
-||M 10.09|L27:
+||W 10.04|L27:
+||M 10.09|L28:
 ||T 10.10|
-||W 10.11|L28:
+||W 10.11|L29:
+
 |||General properties of angular momentum (3 lectures)
 |||Tensor product and quantum mechanics in 3D; central force and the hydrogen Atom (3 lectures)
 |||Addition of angular momenta (2 lectures)
