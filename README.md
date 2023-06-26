@@ -23,11 +23,34 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 
 |Homework|Date| Topics |Lecture note|Resources|Additional resources|
 |:------:|:--:|:-------|:----------:|:--------:|:------------------|
-||26 Jun|Introduction to quantum theory: interference phenomena (1 lecture)|[L1](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/indiv_01.pdf)
-||28 Jun|Schrödinger Equation in 1D (3 lectures)|
-|||Mathematical structures of quantum mechanics (3 lectures)|
-|||Postulates of quantum theory; dynamical pictures; symmetries and conservation laws (2 lectures)|
-|||Simple harmonic oscillator (3 lectures)|
+||M 26 Jun|Introduction to quantum theory: interference phenomena (1 lecture)|[L1](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/indiv_01.pdf)
+||T 27 Jun|
+|HW1<\br>DUE|W 28 Jun|Schrödinger equation in 1D I|
+||M 3 Jul|Schrödinger equation in 1D II|
+||T 4 Jul|
+||W 5 Jul|Schrödinger equation in 1D III|
+||M 10 Jul|Mathematical structure of quantum mechanics I|
+||T 11 Jul|HW1 discussion
+||W 12 Jul|Mathematical structure of quantum mechanics II|
+||M 17 Jul|Mathematical structure of quantum mechanics III|
+||T 18 Jul|
+||W 19 Jul|Postulates of quantum theory; dynamical pictures; symmetries and conservation laws I|
+||M 24 Jul|**No class?**
+||T 25 Jul|Postulates of quantum theory; dynamical pictures; symmetries and conservation laws II **(Make-up class)**|
+||W 26 Jul|Simple harmonic oscillator I|
+||M 31 Jul|Simple harmonic oscillator II|
+||T 1 Aug|**No class** (อาสาฬหบูชา)
+||W 2 Aug|**No class** (เข้าพรรษา)|
+||M 7 Aug|Simple harmonic oscillator III|
+||T 8 Aug||
+||W 9 Aug|Two-level systems I|
+||M 14 Aug|**No class** (หยุดชดเชยวันแม่แห่งชาติ) 
+||T 15 Aug|
+||W 16 Aug|Two-level systems II|
+||M 21 Aug|Two-level systems I
+||T 22 Aug|
+||W 23 Aug|
+||28 Aug - 1 Sep | **No class**
 |||Two-level systems (3 lectures)|
 |**Midterm**||
 |||General properties of angular momentum (3 lectures)
