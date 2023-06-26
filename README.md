@@ -34,7 +34,7 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 ||W 07.12|L6: Mathematical structure of quantum mechanics II|
 ||M 07.17|L7: Mathematical structure of quantum mechanics III|
 ||T 07.18|L8: Postulates of quantum theory; dynamical pictures; symmetries and conservation laws I (**Make-up class**)
-|HW3<br>OUT|W 07.19|| **No class**
+|HW3<br>OUT|W 07.19| **No class**
 ||M 07.24|**No class?**
 ||T 07.25|HW2 discussion
 ||W 07.26|L9: Postulates of quantum theory; dynamical pictures; symmetries and conservation laws II|
