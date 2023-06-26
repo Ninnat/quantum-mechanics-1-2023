@@ -34,8 +34,8 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 ||W 07.12|L7: Mathematical structure of quantum mechanics III|
 ||M 07.17|L8: Postulates of quantum mechanics
 ||T 07.18|L9: Dynamical pictures; symmetries and conservation laws I (**Make-up class**)|
-|HW3<br>OUT|W 07.19| **No class**
-||M 07.24|**No class?**
+|HW3<br>OUT|W 07.19| **No class** (I am away)
+||M 07.24|**No class?** 
 ||T 07.25|HW2 discussion
 ||W 07.26|L10: Dynamical pictures; symmetries and conservation laws II|
 |HW4<br>OUT|M 07.31|L11: Simple harmonic oscillator I|
@@ -50,10 +50,10 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 ||M 08.21|L16: Angular momentum 
 ||T 08.22|HW4 discussion
 ||W 08.23|L17:
-|Midterm<br>OUT|08.28-09.01| **No class**
+|Midterm<br>OUT|08.28-09.01| **No class** (I am away)
 ||M 09.04|L18: 
 ||T 09.05|
-||W 09.06|L19: Tensor product and quantum mechanicsin 3D
+||W 09.06|L19: Tensor product and quantum mechanics in 3D
 ||M 09.11|L20:
 ||T 09.12|
 ||W 09.13|L21: 
