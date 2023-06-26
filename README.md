@@ -33,23 +33,24 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 ||T 07.11|HW1 discussion
 ||W 07.12|L6: Mathematical structure of quantum mechanics II|
 ||M 07.17|L7: Mathematical structure of quantum mechanics III|
-||T 07.18|
-||W 07.19|L8: Postulates of quantum theory; dynamical pictures; symmetries and conservation laws I|
+||T 07.18|L8: Postulates of quantum theory; dynamical pictures; symmetries and conservation laws I (**Make-up class**)
+|HW3<br>OUT|W 07.19|| **No class**
 ||M 07.24|**No class?**
-||T 07.25|L9: Postulates of quantum theory; dynamical pictures; symmetries and conservation laws II **(Make-up class)**|
-||W 07.26|L10: Simple harmonic oscillator I|
-||M 07.31|L11: Simple harmonic oscillator II|
+||T 07.25|HW2 discussion
+||W 07.26|L9: Postulates of quantum theory; dynamical pictures; symmetries and conservation laws II|
+|HW4<br>OUT|M 07.31|L10: Simple harmonic oscillator I|
 ||T 08.01|**No class** (อาสาฬหบูชา)
 ||W 08.02|**No class** (เข้าพรรษา)|
-||M 08.07|L12: Simple harmonic oscillator III|
-||T 08.08||
-||W 08.09|L13: Two-level systems I|
+||M 08.07|L11: Simple harmonic oscillator II|
+||T 08.08|HW3 discussion|
+||W 08.09|L12: Simple harmonic oscillator III|
 ||M 08.14|**No class** (หยุดชดเชยวันแม่แห่งชาติ) 
-||T 08.15|
-||W 08.16|L14: Two-level systems II|
-||M 08.21|L15: Two-level systems III|
+||T 08.15|HW4 discussion
+||W 08.16|L13: Two-level systems I|
+|**Midterm**
+||M 08.21|L14: Two-level systems II|
 ||T 08.22|
-||W 08.23|L16:
+||W 08.23|L15: Two-level systems III|
 ||08.28-09.01| **No class**
 |**Midterm**||
 ||M 09.04|L17:
