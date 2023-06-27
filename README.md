@@ -19,38 +19,38 @@ Other recommended references are
 For the topic on hidden variables and Bell nonlocality, I recommend
 * [Per] *Quantum Theory: Concepts and Methods*, Asher Peres (1993).-->
 
-## Schedule
+## Tentative Schedule
 
 |Homework|Date| Topics |Lecture note|Resources|Additional resources|
 |:------:|:--:|:------:|:----------:|:--------:|:------------------|
 ||M 06.26|L1: Introduction to quantum theory: interference phenomena |[L1](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/indiv_01.pdf)
 ||T 06.27|
-|HW1<br>OUT|W 06.28|L2: Schrödinger equation in 1D I|
+|HW1 OUT <br> DUE 07.10|W 06.28|L2: Schrödinger equation in 1D I|
 ||M 07.03|L3: Schrödinger equation in 1D II|
 ||T 07.04|L4: Schrödinger equation in 1D III (**Make-up class**)|
 ||W 07.05|L5: Mathematical structure of quantum mechanics I|
-|HW2<br>OUT|M 07.10|L6: Mathematical structure of quantum mechanics II|
+|HW2 OUT <br> DUE 07.21|M 07.10|L6: Mathematical structure of quantum mechanics II|
 ||T 07.11|HW1 discussion
 ||W 07.12|L7: Mathematical structure of quantum mechanics III|
 ||M 07.17|L8: Postulates of quantum mechanics
 ||T 07.18|L9: Dynamical pictures; symmetries and conservation laws I (**Make-up class**)|
-|HW3<br>OUT|W 07.19| **No class**
-||M 07.24|**No class?**
+||W 07.19| **No class** (I am away)
+||M 07.24|**No class?** (I am away)
 ||T 07.25|HW2 discussion
-||W 07.26|L10: Dynamical pictures; symmetries and conservation laws II|
-|HW4<br>OUT|M 07.31|L11: Two-level systems I|
+|HW3 OUT <br> DUE 08.07|W 07.26|L10: Dynamical pictures; symmetries and conservation laws II|
+||M 07.31|L11: Two-level systems I|
 ||T 08.01|**No class** (อาสาฬหบูชา)
 ||W 08.02|**No class** (เข้าพรรษา)|
 ||M 08.07|L12: Two-level systems II|
 ||T 08.08|HW3 discussion|
-||W 08.09|L13: Simple harmonic oscillator I|
+|HW4 OUT|W 08.09|L13: Simple harmonic oscillator I|
 ||M 08.14|**No class** (หยุดชดเชยวันแม่แห่งชาติ)
 ||T 08.15|L14: Simple harmonic oscillator II (**Make-up class**)|
 ||W 08.16|L15: Simple harmonic oscillator III
 ||M 08.21|L16:
 ||T 08.22|HW4 discussion
 ||W 08.23|L17:
-|Midterm<br>OUT|08.28-09.01| **No class**
+|Midterm<br>OUT|08.28-09.01| **No class** (I am away)
 ||M 09.04|L18:
 ||T 09.05|
 ||W 09.06|L19:
@@ -69,6 +69,7 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 ||M 10.09|L28:
 ||T 10.10|
 ||W 10.11|L29:
+
 ## Course description (Revised curriculum B.E. 2566)
 
 The Schrödinger equation; Dirac notation; Hilbert space; self-adjoint operators; postulates of quantum mechanics; the harmonic oscillator; two-level systems; quantum entanglement; symmetries and transformations; orbital and spin angular momenta; addition of angular momenta; the hydrogen atom; perturbation theory; second quantization and field quantization
