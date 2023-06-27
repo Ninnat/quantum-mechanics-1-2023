@@ -34,49 +34,41 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 ||W 07.12|L7: Mathematical structure of quantum mechanics III|
 ||M 07.17|L8: Postulates of quantum mechanics
 ||T 07.18|L9: Dynamical pictures; symmetries and conservation laws I (**Make-up class**)|
-|HW3<br>OUT|W 07.19| **No class** (I am away)
-||M 07.24|**No class?** 
+|HW3<br>OUT|W 07.19| **No class**
+||M 07.24|**No class?**
 ||T 07.25|HW2 discussion
 ||W 07.26|L10: Dynamical pictures; symmetries and conservation laws II|
-|HW4<br>OUT|M 07.31|L11: Simple harmonic oscillator I|
+|HW4<br>OUT|M 07.31|L11: Two-level systems I|
 ||T 08.01|**No class** (อาสาฬหบูชา)
 ||W 08.02|**No class** (เข้าพรรษา)|
-||M 08.07|L12: Simple harmonic oscillator II|
+||M 08.07|L12: Two-level systems II|
 ||T 08.08|HW3 discussion|
-||W 08.09|L13: Simple harmonic oscillator III|
+||W 08.09|L13: Simple harmonic oscillator I|
 ||M 08.14|**No class** (หยุดชดเชยวันแม่แห่งชาติ)
-||T 08.15|L14: Two-level systems I (**Make-up class**)|
-||W 08.16|L15: Two-level systems II|
-||M 08.21|L16: Angular momentum 
+||T 08.15|L14: Simple harmonic oscillator II (**Make-up class**)|
+||W 08.16|L15: Simple harmonic oscillator III
+||M 08.21|L16:
 ||T 08.22|HW4 discussion
 ||W 08.23|L17:
-|Midterm<br>OUT|08.28-09.01| **No class** (I am away)
-||M 09.04|L18: 
+|Midterm<br>OUT|08.28-09.01| **No class**
+||M 09.04|L18:
 ||T 09.05|
-||W 09.06|L19: Tensor product and quantum mechanics in 3D
+||W 09.06|L19:
 ||M 09.11|L20:
 ||T 09.12|
-||W 09.13|L21: 
-||M 09.18|L22: Addition of angular momenta
+||W 09.13|L21:
+||M 09.18|L22:
 ||T 09.19|
 ||W 09.20|L23:
-||M 09.25|L24: 
+||M 09.25|L24:
 ||T 09.26|
-||W 09.27|L25: Perturbation theory
-||M 10.02|L26: 
+||W 09.27|L25:
+||M 10.02|L26:
 ||T 10.03|
 ||W 10.04|L27:
 ||M 10.09|L28:
 ||T 10.10|
 ||W 10.11|L29:
-
-|||General properties of angular momentum (3 lectures)
-|||Tensor product and quantum mechanics in 3D; central force and the hydrogen Atom (3 lectures)
-|||Addition of angular momenta (2 lectures)
-|||Hidden variables and Bell nonlocality; many-particle systems; second quantization and field quantization
-|||Perturbation Theory
-|**Final**
-
 ## Course description (Revised curriculum B.E. 2566)
 
 The Schrödinger equation; Dirac notation; Hilbert space; self-adjoint operators; postulates of quantum mechanics; the harmonic oscillator; two-level systems; quantum entanglement; symmetries and transformations; orbital and spin angular momenta; addition of angular momenta; the hydrogen atom; perturbation theory; second quantization and field quantization
