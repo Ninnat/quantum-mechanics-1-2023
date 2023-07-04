@@ -28,7 +28,7 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 |[HW1](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Homework/1_2023_hw1.pdf) OUT <br> DUE 07.10|W 06.28|L2: Schrödinger equation in 1D I|[L2](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/L2.pdf)|I <br> (A<sub>I</sub>) <br> C<sub>I</sub> <br> G<sub>I</sub>| Mer 2,6,7
 ||M 07.03|L3: Schrödinger equation in 1D II|[L3](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/L3.pdf)||Zwiebach's [MIT8.05 Quantum Physics II lecture notes](https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/61bc31b8d8bf0680c322733910a71aa0_MIT8_05F13_Chap_01.pdf)
 ||T 07.04|
-||W 07.05|L4: Schrödinger equation in 1D III||Robert Littlejohn's notes on [WKB approximation](https://web.archive.org/web/20230627210532/https://bohr.physics.berkeley.edu/classes/221/notes/wkb.pdf)|
+||W 07.05|L4: Schrödinger equation in 1D III|||Robert Littlejohn's notes on [WKB approximation](https://web.archive.org/web/20230627210532/https://bohr.physics.berkeley.edu/classes/221/notes/wkb.pdf)|
 |HW2 OUT <br> DUE 07.21|M 07.10|L5: Mathematical structure of quantum mechanics I||II <br> A<sub>II</sub> <br> B<sub>II</sub> <br> C<sub>II</sub>|SW 3 <br> Bal 1
 ||T 07.11|HW1 discussion
 ||W 07.12|L6: Mathematical structure of quantum mechanics II|
