@@ -34,7 +34,7 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 ||W 07.12|L6: Mathematical structure of quantum mechanics II|
 ||M 07.17|**No class** (Conflicting duty)
 ||T 07.18 **Special time and place** <br> 10:30-12:00 (Room TA207)|L7: Mathematical structure of quantum mechanics III (**Make-up class**)|
-||T 07.18 |L8: Postulates of quantum mechanics (**Make-up class**)||III <br> C<sub>III</sub> <br> F<sub>III</sub> <br> G<sub>III</sub>|Bal 2 <br> Mer 3.4 <br> [Time evolution operator as a time-ordered exponential](https://web.archive.org/web/20220709154510/http://scipp.ucsc.edu/~haber/ph215/TimeOrderedExp.pdf), Howard Haber
+||T 07.18 13:30-15:00 |L8: Postulates of quantum mechanics (**Make-up class**)||III <br> C<sub>III</sub> <br> F<sub>III</sub> <br> G<sub>III</sub>|Bal 2 <br> Mer 3.4 <br> [Time evolution operator as a time-ordered exponential](https://web.archive.org/web/20220709154510/http://scipp.ucsc.edu/~haber/ph215/TimeOrderedExp.pdf), Howard Haber
 ||W 07.19| **No class** (I'm out of town)
 ||M 07.24|**No class** (Conflicting duty)
 ||T 07.25 **Special time and place** <br> 10:30-12:00 (Room TA207)|L9: Dynamical pictures; symmetries and conservation laws I (**Make-up class**)
