@@ -39,7 +39,7 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 ||M 07.24|**No class** (Conflicting duty)
 ||T 07.25 **Special time and place** <br> 10:30-12:00 (Room TA207)|L9: Dynamical pictures; symmetries and conservation laws I (**Make-up class**)
 ||T 07.25|HW2 discussion
-|HW3 OUT <br> DUE 08.07?|W 07.26|L10: Dynamical pictures; symmetries and conservation laws II|||Bal 3
+|[HW3](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Homework/1_2023_hw3.pdf) OUT <br> DUE 08.07|W 07.26|L10: Dynamical pictures; symmetries and conservation laws II|||Bal 3
 ||M 07.31|L11: Two-level systems I|| IV <br> A<sub>IV</sub> <br> B<sub>IV</sub> <br> (F<sub>IV</sub>)
 ||T 08.01|**No class** (อาสาฬหบูชา)
 ||W 08.02|**No class** (เข้าพรรษา)|
