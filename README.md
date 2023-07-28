@@ -29,7 +29,7 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 ||M 07.03|L3: Schrödinger equation in 1D II|[L3](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/L3.pdf)
 ||T 07.04|
 ||W 07.05|L4: Schrödinger equation in 1D III|[L4](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/indiv_04.pdf)
-|[HW2](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Homework/1_2023_hw2.pdf) OUT <br> DUE 07.21|M 07.10|L5: Mathematical structure of quantum mechanics I||II <br> A<sub>II</sub> <br> B<sub>II</sub> <br> C<sub>II</sub>|SW 3 <br> Bal 1
+|[HW2](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Homework/1_2023_hw2.pdf) OUT <br> DUE 07.21|M 07.10|L5: Mathematical structure of quantum mechanics I|[L5-7](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/L5-7.pdf)|II <br> A<sub>II</sub> <br> B<sub>II</sub> <br> C<sub>II</sub>|SW 3 <br> Bal 1
 ||T 07.11|HW1 discussion + Eigenvalue problems
 ||W 07.12|L6: Mathematical structure of quantum mechanics II|
 ||M 07.17|**No class** (Conflicting duty)
