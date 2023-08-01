@@ -2,7 +2,7 @@
 
 ## Announcement
 
-* July 31 was suddenly announced by the Cabinet to be a special holiday, but we will still meet online for the class so that you have enough information to do HW3, which will be due next Monday, August 7.
+* July 31 was suddenly announced by the Cabinet to be a special holiday, but we will still meet online for the class so that we cover enough materials for HW3, which will be due next Monday, August 7.
 
 ## Resources
 
