@@ -2,6 +2,7 @@
 
 ## Announcement
 
+* July 31 was suddenly announced by the Cabinet to be a special holiday, but we will still meet online for the class so that you have enough information to do HW3, which will be due next Monday, August 7.
 
 ## Resources
 
@@ -40,7 +41,7 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 ||T 07.25 **Special time and place** <br> 10:30-12:00 (Room TA207)|L9: Dynamical pictures; symmetries and conservation laws I (**Make-up class**)
 ||T 07.25|HW2 discussion
 |[HW3](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Homework/1_2023_hw3.pdf) OUT <br> DUE 08.07|W 07.26|L10: Dynamical pictures; symmetries and conservation laws II|||Bal 3
-||M 07.31|L11: Two-level systems|[L11](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/L11.pdf)| IV <br> A<sub>IV</sub> <br> B<sub>IV</sub> <br> (F<sub>IV</sub>)
+||M 07.31|L11: Two-level systems|[L11](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/L11.pdf) <br> [In-class notes](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/Online-073123.pdf)| IV <br> A<sub>IV</sub> <br> B<sub>IV</sub> <br> (F<sub>IV</sub>)
 ||T 08.01|**No class** (อาสาฬหบูชา)
 ||W 08.02|**No class** (เข้าพรรษา)|
 ||M 08.07|L12: Simple harmonic oscillator I||V <br> B<sub>V</sub> <br> G<sub>V</sub>
