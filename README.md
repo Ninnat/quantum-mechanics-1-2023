@@ -48,7 +48,7 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 ||T 08.08|HW3 discussion|
 |HW4 OUT|W 08.09|L13: Simple harmonic oscillator I|[L13-15](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/L12-14.pdf)|V <br> B<sub>V</sub> <br> G<sub>V</sub>
 ||M 08.14|**No class** (หยุดชดเชยวันแม่แห่งชาติ)
-||T 08.15|L14: Simple harmonic oscillator II|
+||T 08.15|L14: Simple harmonic oscillator II (**Make-up class**)|
 ||W 08.16|L15: Simple harmonic oscillator III|||Mer 10.7
 ||M 08.21|L16:
 ||T 08.22|HW4 discussion
