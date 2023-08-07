@@ -44,7 +44,7 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 ||M 07.31|L11: Two-level systems|[L11](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/L11.pdf) <br> [In-class notes](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/Online-073123.pdf)| IV <br> A<sub>IV</sub> <br> B<sub>IV</sub> <br> (F<sub>IV</sub>)
 ||T 08.01|**No class** (อาสาฬหบูชา)
 ||W 08.02|**No class** (เข้าพรรษา)|
-||M 08.07|L12: Simple harmonic oscillator I||V <br> B<sub>V</sub> <br> G<sub>V</sub>
+||M 08.07|L12: Simple harmonic oscillator I|[L12-14](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/L12-14.pdf)|V <br> B<sub>V</sub> <br> G<sub>V</sub>
 ||T 08.08|HW3 discussion|
 |HW4 OUT|W 08.09|L13: Simple harmonic oscillator II
 ||M 08.14|**No class** (หยุดชดเชยวันแม่แห่งชาติ)
