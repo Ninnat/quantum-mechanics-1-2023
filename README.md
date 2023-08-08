@@ -35,12 +35,12 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 ||W 07.12|L6: Mathematical structure of quantum mechanics II|
 ||M 07.17|**No class** (Conflicting duty)
 ||T 07.18 **Special time and place** <br> 10:30-12:00 (Room TA207)|L7: Mathematical structure of quantum mechanics III (**Make-up class**)|
-||T 07.18 13:30-15:00 |L8: Postulates of quantum mechanics (**Make-up class**)||III <br> C<sub>III</sub> <br> F<sub>III</sub> <br> G<sub>III</sub>|Bal 2 <br> Mer 3.4 <br> [Time evolution operator as a time-ordered exponential](https://web.archive.org/web/20220709154510/http://scipp.ucsc.edu/~haber/ph215/TimeOrderedExp.pdf), Howard Haber
+||T 07.18 13:30-15:00 |L8: Postulates of quantum mechanics I (**Make-up class**)||III <br> C<sub>III</sub> <br> F<sub>III</sub> <br> G<sub>III</sub>|Bal 2 <br> Mer 3.4 <br> [Time evolution operator as a time-ordered exponential](https://web.archive.org/web/20220709154510/http://scipp.ucsc.edu/~haber/ph215/TimeOrderedExp.pdf), Howard Haber
 ||W 07.19| **No class** (I'm out of town)
 ||M 07.24|**No class** (Conflicting duty)
-||T 07.25 **Special time and place** <br> 10:30-12:00 (Room TA207)|L9: Dynamical pictures; symmetries and conservation laws I (**Make-up class**)
+||T 07.25 **Special time and place** <br> 10:30-12:00 (Room TA207)|L9: Postulates of quantum mechanics II (**Make-up class**)
 ||T 07.25|T2: HW2 discussion
-|[HW3](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Homework/1_2023_hw3.pdf) OUT <br> DUE 08.07|W 07.26|L10: Dynamical pictures; symmetries and conservation laws II|||Bal 3
+|[HW3](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Homework/1_2023_hw3.pdf) OUT <br> DUE 08.07|W 07.26|L10: Dynamical pictures; symmetries and conservation laws|||Bal 3
 ||M 07.31|L11: Two-level systems I|[L11-12](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/L11.pdf) <br> [In-class notes](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/Online-073123.pdf)| IV <br> A<sub>IV</sub> <br> B<sub>IV</sub> <br> (F<sub>IV</sub>)
 ||T 08.01|**No class** (อาสาฬหบูชา)
 ||W 08.02|**No class** (เข้าพรรษา)|
