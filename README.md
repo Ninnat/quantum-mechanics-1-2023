@@ -50,9 +50,9 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 ||M 08.14|**No class** (หยุดชดเชยวันแม่แห่งชาติ)
 ||T 08.15|L14: Simple harmonic oscillator II (**Make-up class**)|
 ||W 08.16|L15: Simple harmonic oscillator III|||Mer 10.7
-||M 08.21|L16:
-||T 08.22|T4: HW4 discussion + Midterm tutorial
-||W 08.23|L17:
+||M 08.21|L16: Introduction to field quantization I
+||T 08.22|T4: HW4 discussion
+||W 08.23|L17: Midterm tutorial
 |Midterm<br>OUT|08.28-09.01| **No class** (I'm out of town)
 ||M 09.04|
 ||T 09.05|
