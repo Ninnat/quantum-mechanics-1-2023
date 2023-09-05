@@ -54,9 +54,9 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 ||T 08.22|T4: HW4 discussion
 ||W 08.23|T5: Midterm tutorial
 |Midterm<br>OUT|08.28-09.01| **No class** (I'm out of town)
-||M 09.04|L17: Introduction to field quantization I|[L17-18](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/L17-18.pdf)|XVIII (Vol.3) <br> A<sub>XVIII</sub> <br> B<sub>XVIII</sub> <br> (SI units)||
+||M 09.04|L17: Introduction to field quantization I|[L17-18](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/L17-18.pdf)||XVIII (Vol.3) <br> A<sub>XVIII</sub> <br> B<sub>XVIII</sub> <br> (SI units)|
 ||T 09.05|L18: Introduction to field quantization II (**Make-up class**)
-||W 09.06|L19: Occupation-number representation ("second quantization")
+||W 09.06|L19: Occupation-number representation ("second quantization")||SW 14.6|
 ||M 09.11|
 ||T 09.12|
 ||W 09.13|
