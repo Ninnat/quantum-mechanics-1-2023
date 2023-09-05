@@ -55,7 +55,7 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 ||W 08.23|T5: Midterm tutorial
 |Midterm<br>OUT|08.28-09.01| **No class** (I'm out of town)
 ||M 09.04|L17: Introduction to field quantization I
-||T 09.05|L18: Introduction to field quantization II
+||T 09.05|L18: Introduction to field quantization II (**Make-up class**)
 ||W 09.06|L19: Introduction to field quantization III
 ||M 09.11|
 ||T 09.12|
