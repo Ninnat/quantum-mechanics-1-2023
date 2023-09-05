@@ -73,7 +73,7 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 ||T 10.10|
 ||W 10.11|
 
-## Course description (Revised curriculum B.E. 2566)
+## Course description (Revised curriculum 2023)
 
 The Schrödinger equation; Dirac notation; Hilbert space; self-adjoint operators; postulates of quantum mechanics; the harmonic oscillator; two-level systems; quantum entanglement; symmetries and transformations; orbital and spin angular momenta; addition of angular momenta; the hydrogen atom; perturbation theory; second quantization and field quantization
 
