@@ -56,10 +56,10 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 |Midterm<br>OUT|08.28-09.01| **No class** (I'm out of town)
 ||M 09.04|L17: Introduction to field quantization I|[L17-18](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/L17-18.pdf)||C-T XVIII (Vol.3) <br> A<sub>XVIII</sub> <br> B<sub>XVIII</sub> <br> but everything is done in SI units|[The Classical Electromagnetic Field Hamiltonian](https://web.archive.org/web/20230627210533/https://bohr.physics.berkeley.edu/classes/221/notes/classemf.pdf) and [The Quantized Electromagnetic Field](https://web.archive.org/web/20230627210546/https://bohr.physics.berkeley.edu/classes/221/notes/quantemf.pdf), Robert Littlejohn
 ||T 09.05|L18: Introduction to field quantization II (**Make-up class**)
-||W 09.06|L19: Tensor product|II F||
+||W 09.06|L19: Tensor product||II F|
 ||M 09.11|L20: Quantum nonlocality|||SW 6
 ||T 09.12|L21: Introduction to the occupation-number representation ("second quantization")|||SW 14.6|
-||W 09.13|
+||W 09.13|L22: Angular momentum I
 ||M 09.18|
 ||T 09.19|
 ||W 09.20|
