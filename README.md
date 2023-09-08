@@ -36,7 +36,7 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 ||M 07.17|**No class** (Conflicting duty)
 ||T 07.18 **Special time and place** <br> 10:30-12:00 (Room TA207)|L7: Mathematical structure of quantum mechanics III (**Make-up class**)|
 ||T 07.18 13:30-15:00 |L8: Postulates of quantum mechanics I (**Make-up class**)|[L8-10](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/L8-10.pdf)|III <br> C<sub>III</sub> <br> F<sub>III</sub> <br> G<sub>III</sub>|Bal 2 <br> Mer 3.4 <br> [Time evolution operator as a time-ordered exponential](https://web.archive.org/web/20220709154510/http://scipp.ucsc.edu/~haber/ph215/TimeOrderedExp.pdf), Howard Haber
-||W 07.19| **No class** (I'm out of town)
+||W 07.19| **No class** (Out of town)
 ||M 07.24|**No class** (Conflicting duty)
 ||T 07.25 **Special time and place** <br> 10:30-12:00 (Room TA207)|L9: Postulates of quantum mechanics II (**Make-up class**)
 ||T 07.25|T2: HW2 discussion
@@ -53,8 +53,8 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 ||M 08.21|L16: Simple harmonic oscillator IV|
 ||T 08.22|T4: HW4 discussion
 ||W 08.23|T5: Midterm tutorial
-|Midterm<br>OUT|08.28-09.01| **No class** (I'm out of town)
-||M 09.04|L17: Introduction to field quantization I|[L17-18](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/L17-18.pdf)||C-T XVIII (Vol.3) <br> A<sub>XVIII</sub> <br> B<sub>XVIII</sub> <br> but everything is done in SI units <br> [The Classical Electromagnetic Field Hamiltonian](https://web.archive.org/web/20230627210533/https://bohr.physics.berkeley.edu/classes/221/notes/classemf.pdf) and [The Quantized Electromagnetic Field](https://web.archive.org/web/20230627210546/https://bohr.physics.berkeley.edu/classes/221/notes/quantemf.pdf), Robert Littlejohn
+|Midterm<br>OUT|08.28-09.01| **No class** (Out of town)
+||M 09.04|L17: Introduction to field quantization I|[L17-18](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/L17-18.pdf)||  [The Classical Electromagnetic Field Hamiltonian](https://web.archive.org/web/20230627210533/https://bohr.physics.berkeley.edu/classes/221/notes/classemf.pdf) and [The Quantized Electromagnetic Field](https://web.archive.org/web/20230627210546/https://bohr.physics.berkeley.edu/classes/221/notes/quantemf.pdf), Robert Littlejohn <br> Also see C-T XVIII (Vol.3) <br> A<sub>XVIII</sub> <br> B<sub>XVIII</sub> <br> but everything is done in SI units
 ||T 09.05|L18: Introduction to field quantization II (**Make-up class**)
 ||W 09.06|L19: Tensor product||II F|
 ||M 09.11|L20: Quantum nonlocality|||SW 6
