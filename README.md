@@ -61,16 +61,17 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 ||T 09.12|L21: Fock space (**Make-up class**)|||SW 14.6
 ||W 09.13|L22: Angular momentum I|[L22-24](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/L22-24.pdf)|VI <br> A<sub>VI</sub> <br> B<sub>VI</sub>
 ||M 09.18|L23: Angular momentum II
-||W 09.20|L24: Angular momentum III 
+|HW6 OUT|W 09.20|L24: Angular momentum III 
 ||M 09.25|L25: Central potentials I
 ||T 09.26|T5: HW5 discussion
 ||W 09.27|L26: Central potentials II
 ||M 10.02|L27: Addition of angular momenta I
 ||T 10.03|L28: Addition of angular momenta II (**Make-up class**)
-||W 10.04|L29: Perturbation theory I
+|HW7 OUT|W 10.04|L29: Perturbation theory I
 ||M 10.09|L30: Perturbation theory II
-||T 10.10|L31: Perturbation theory III
-||W 10.11|L32: Perturbation theory IV
+||T 10.10|T6: HW6 discussion
+||W 10.11|L31: Perturbation theory III
+||M 10.16|L32: Perturbation theory IV
 
 ## Course description (Revised curriculum 2023)
 
