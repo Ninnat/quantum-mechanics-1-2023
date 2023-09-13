@@ -59,7 +59,7 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 ||W 09.06|L19: Tensor product||II F|
 |[HW5](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Homework/1_2023_hw5.pdf) OUT <br> DUE 09.20|M 09.11|L20: Introduction to quantum nonlocality|||SW 6|
 ||T 09.12|L21: Fock space (**Make-up class**)|||SW 14.6
-||W 09.13|L22: Angular momentum I
+||W 09.13|L22: Angular momentum I|[L22-24](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/L22-24.pdf)|VI <br> A<sub>VI</sub> <br> B<sub>VI</sub>
 ||M 09.18|L23: Angular momentum II
 ||T 09.19|L24: Angular momentum III (**Make-up class**)
 ||W 09.20|L25:
