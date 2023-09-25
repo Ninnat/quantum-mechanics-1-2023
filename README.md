@@ -63,7 +63,7 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 ||M 09.18|L23: Angular momentum II
 |[HW6](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Homework/1_2023_hw6.pdf) OUT <br> DUE 10.04|W 09.20|L24: Angular momentum III 
 ||M 09.25|L25: Central potentials I
-||T 09.26|T5: HW5 discussion + Spherical harmonics
+||T 09.26|T5: HW5 discussion + [Wigner D-matrix](https://en.wikipedia.org/wiki/Wigner_D-matrix) (*Darstellung* meaning "representation")
 ||W 09.27|L26: Central potentials II
 ||M 10.02|L27: Addition of angular momenta I|[L27-28](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/L27-28.pdf)|X (Vol.2) <br> D<sub>X</sub> <br> E<sub>X</sub>
 ||T 10.03|L28: Addition of angular momenta II (**Make-up class**)
