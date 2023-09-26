@@ -62,9 +62,9 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 ||W 09.13|L22: Angular momentum I|[L22-24](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/L22-24.pdf)|VI <br> A<sub>VI</sub> <br> B<sub>VI</sub>
 ||M 09.18|L23: Angular momentum II
 |[HW6](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Homework/1_2023_hw6.pdf) OUT <br> DUE 10.04|W 09.20|L24: Angular momentum III 
-||M 09.25|L25: Central potentials I
+||M 09.25|L25: Rotational symmetry
 ||T 09.26|T5: Differential operators in spherical coordinates, center-of-mass coordinates
-||W 09.27|L26: Central potentials II
+||W 09.27|L26: Central potentials
 ||M 10.02|L27: Addition of angular momenta I|[L27-28](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/L27-28.pdf)|X (Vol.2) <br> D<sub>X</sub> <br> E<sub>X</sub>
 ||T 10.03|L28: Addition of angular momenta II (**Make-up class**)
 |HW7 OUT|W 10.04|L29: Perturbation theory I
