@@ -56,7 +56,7 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 |Midterm<br>OUT|08.28-09.01| **No class** (Out of town)
 ||M 09.04|L17: Introduction to field quantization I|[L17-18](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/L17-18.pdf) <br> [LaTeX notes for L17-20](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/L17-20_texed.pdf)||  [The Classical Electromagnetic Field Hamiltonian](https://web.archive.org/web/20230627210533/https://bohr.physics.berkeley.edu/classes/221/notes/classemf.pdf) and [The Quantized Electromagnetic Field](https://web.archive.org/web/20230627210546/https://bohr.physics.berkeley.edu/classes/221/notes/quantemf.pdf), Robert Littlejohn <br> Also see C-T XVIII (Vol.3) <br> A<sub>XVIII</sub> <br> B<sub>XVIII</sub> <br> but everything is done in SI units
 ||T 09.05|L18: Introduction to field quantization II (**Make-up class**)
-||W 09.06|L19: Tensor product||II§F|
+||W 09.06|L19: Tensor product||II <br> §F|
 |[HW5](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Homework/1_2023_hw5.pdf) OUT <br> DUE 09.20|M 09.11|L20: Introduction to quantum nonlocality|||SW 6|
 ||T 09.12|L21: Fock space (**Make-up class**)|[Second quantization](https://phys.libretexts.org/Bookshelves/Quantum_Mechanics/Quantum_Mechanics_III_(Chong)/04%3A_Identical_Particles/4.03%3A_Second_Quantization) on LibreTexts, Y.D. Chong||SW 14.6
 ||W 09.13|L22: Angular momentum I|[L22-24](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/L22-24.pdf)|VI <br> A<sub>VI</sub> <br> B<sub>VI</sub>
