@@ -69,7 +69,7 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 ||T 10.03|L28: Addition of angular momenta II (**Make-up class**)
 |HW7 OUT|W 10.04|L29: Time-independent perturbation theory
 ||M 10.09|L30: Tensor operators
-||T 10.10|T6: HW6 discussion
+||T 10.10|**No class** (EdPEx interviews)
 ||W 10.11|L31: Superselection rules
 
 ## Course description (Revised curriculum 2023)
