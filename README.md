@@ -2,7 +2,7 @@
 
 ## Announcement
 
-* *11 Oct*: Since the Monday class (October 9) was canceled due to an unforseen circumstance, we will have our final class on Monday, October 16. Correspondingly, the due date of HW7 will be push forward to Friday the 18th.
+* *11 Oct*: Since the Monday class (October 9) was canceled due to an unforseen circumstance, we will have our final class on Monday, October 16. Correspondingly, the due date of HW7 will be push back to Friday the 18th.
 * July 31 was suddenly announced by the Cabinet to be a special holiday, but we will still meet online for the class so that we cover enough materials for HW3, which will be due next Monday, August 7.
 
 ## Resources
