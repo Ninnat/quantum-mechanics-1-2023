@@ -67,10 +67,10 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 ||W 09.27|L26: Central potentials II
 ||M 10.02|L27: Addition of angular momenta I|[L27-28](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/L27-28.pdf)|X (Vol.2) <br> D<sub>X</sub> <br> E<sub>X</sub>
 ||T 10.03|L28: Addition of angular momenta II (**Make-up class**)
-|[HW7](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Homework/1_2023_hw7.pdf) OUT <br> DUE 10.18|W 10.04|L29: Time-independent perturbation theory
+||W 10.04|L29: Time-independent perturbation theory
 ||M 10.09|
 ||T 10.10|**No class** (EdPEx)
-||W 10.11|L30: Tensor operators
+|[HW7](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Homework/1_2023_hw7.pdf) OUT <br> DUE 10.20|W 10.11|L30: Tensor operators
 ||M 10.16|L31: Superselection rules
 ||?? |T7 & T8: HW6 & HW7 discussion
 
