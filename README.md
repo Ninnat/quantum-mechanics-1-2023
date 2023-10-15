@@ -68,11 +68,11 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 ||W 09.27|L26: Central potentials II
 ||M 10.02|L27: Addition of angular momenta I|[L27-28](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/L27-28.pdf)|X (Vol.2) <br> D<sub>X</sub> <br> E<sub>X</sub>
 ||T 10.03|L28: Addition of angular momenta II (**Make-up class**)
-||W 10.04|L29: Time-independent perturbation theory
+||W 10.04|L29: Time-independent perturbation theory||XI
 ||M 10.09|
 ||T 10.10|**No class** (EdPEx)
-|[HW7](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Homework/1_2023_hw7.pdf) OUT <br> DUE 10.20|W 10.11|L30: Tensor operators
-||M 10.16|L31: Superselection rules
+|[HW7](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Homework/1_2023_hw7.pdf) OUT <br> DUE 10.20|W 10.11|L30: Tensor operators||D<sub>X</sub> <br> E<sub>X</sub>|[Transformation of operators under rotations](https://web.archive.org/web/20230909032254/https://bohr.physics.berkeley.edu/classes/221/notes/transfop.pdf) and [The Wigner-Eckart theorem](https://web.archive.org/web/20230909032254/https://bohr.physics.berkeley.edu/classes/221/notes/wigeck.pdf), Robert Littlejohn <br>
+*Group Theory and Physics*, Sternberg ||M 10.16|L31: Superselection rules
 ||?? |T7 & T8: HW6 & HW7 discussion
 
 ## Course description (Revised curriculum 2023)
