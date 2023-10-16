@@ -19,7 +19,9 @@ Other recommended references are
 * [Mer] *Quantum Mechanics*, 3rd ed., Eugen Merzbacher (1997) [WKB approximation].
 <!--
 For the topic on hidden variables and Bell nonlocality, I recommend
-* [Per] *Quantum Theory: Concepts and Methods*, Asher Peres (1993).-->
+* [Per] *Quantum Theory: Concepts and Methods*, Asher Peres (1993).
+[Second quantization](https://phys.libretexts.org/Bookshelves/Quantum_Mechanics/Quantum_Mechanics_III_(Chong)/04%3A_Identical_Particles/4.03%3A_Second_Quantization) on LibreTexts, Y.D. Chong
+-->
 
 ## Tentative Schedule
 
@@ -59,7 +61,7 @@ For the topic on hidden variables and Bell nonlocality, I recommend
 ||T 09.05|L18: Introduction to field quantization II (**Make-up class**)
 ||W 09.06|L19: Tensor product||II <br> §F|
 |[HW5](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Homework/1_2023_hw5.pdf) OUT <br> DUE 09.20|M 09.11|L20: Introduction to quantum nonlocality|||SW 6|
-||T 09.12|L21: Fock space (**Make-up class**)|[Second quantization](https://phys.libretexts.org/Bookshelves/Quantum_Mechanics/Quantum_Mechanics_III_(Chong)/04%3A_Identical_Particles/4.03%3A_Second_Quantization) on LibreTexts, Y.D. Chong||SW 14.6
+||T 09.12|L21: Fock space (**Make-up class**)|||SW 14.6
 ||W 09.13|L22: Angular momentum I|[L22-24](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Lecture%20Notes/L22-24.pdf)|VI <br> A<sub>VI</sub> <br> B<sub>VI</sub>
 ||M 09.18|L23: Angular momentum II
 |[HW6](https://github.com/Ninnat/quantum-mechanics-1-2023/blob/main/Homework/1_2023_hw6.pdf) OUT <br> DUE 10.04|W 09.20|L24: Angular momentum III 
